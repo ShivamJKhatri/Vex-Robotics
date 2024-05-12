@@ -7,7 +7,7 @@ Speed of wheels - RPM of motor X (gear ratio)
 = 600 X(36/60)
 = 600 X 0.6
 = 360
-(Screw Joints Image)
+![Images (6)](https://github.com/ShivamJKhatri/Vex-Robotics/assets/141884440/c502fbea-3bfe-4751-86b7-9fc727f6079c)
 This means that the wheels are spinning at 360 rpm. 
 We also connected the motors to the 36 tooth gear. We did this so we would be able to connect the gear between two wheels. This would give us a little bit of extra space when we connecetd the motor. This is becuase the motors would be as close as possible giving us extra space in the front and back for our intake and catapult. 
 In terms of battery placement we placed it on the bottom of our robot where the two sides of the bases are connected. This would make it so that the battrey wouldn’t get knocked out if we ever got hit. This also didn’t interfer with going over the center pipe so it was a great placement. 
